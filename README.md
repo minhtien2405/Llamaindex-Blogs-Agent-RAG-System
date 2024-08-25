@@ -44,7 +44,7 @@ Ensure you have the following installed:
 1. **Clone the Repository**:
 
    ```bash
-
+   https://github.com/minhtien2405/Llamaindex-Blogs-Agent-RAG-System.git
    ```
 
 2. **Set Up Environment Variables**:
