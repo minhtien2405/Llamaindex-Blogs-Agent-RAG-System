@@ -4,13 +4,15 @@ This project is designed to build a Retrieval-Augmented Generation (RAG) system 
 
 ## **Table of Contents**
 
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Running the Project](#running-the-project)
-- [Usage](#usage)
+- [**LlamaIndex Blog RAG System**](#llamaindex-blog-rag-system)
+  - [**Table of Contents**](#table-of-contents)
+  - [**Project Overview**](#project-overview)
+  - [**Features**](#features)
+  - [**Getting Started**](#getting-started)
+    - [**Prerequisites**](#prerequisites)
+    - [**Installation**](#installation)
+  - [**Usage**](#usage)
+  - [Demo](#demo)
 
 ## **Project Overview**
 
@@ -83,3 +85,9 @@ Ensure you have the following installed:
 ## **Usage**
 
 Once the project is running, you can interact with the system via the Chainlit interface. Queries can be entered, and the system will retrieve relevant blog content from the vector database and generate responses using GPT-4o.
+
+## Demo
+
+<video width="320" height="240" controls>
+  <source src="video/RAG_System_demo.mp4" type="video/mp4">
+</video>
