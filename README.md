@@ -12,7 +12,7 @@ This project is designed to build a Retrieval-Augmented Generation (RAG) system 
     - [**Prerequisites**](#prerequisites)
     - [**Installation**](#installation)
   - [**Usage**](#usage)
-  - [Demo](#demo)
+  - [**Demo**](#demo)
 
 ## **Project Overview**
 
@@ -86,8 +86,5 @@ Ensure you have the following installed:
 
 Once the project is running, you can interact with the system via the Chainlit interface. Queries can be entered, and the system will retrieve relevant blog content from the vector database and generate responses using GPT-4o.
 
-## Demo
-
-<video width="320" height="240" controls>
-  <source src="video/RAG_System_demo.mp4" type="video/mp4">
-</video>
+## **Demo**
+[![](https://markdown-videos-api.jorgenkh.no/youtube/5U53-E9dqwY)](https://youtu.be/5U53-E9dqwY)
